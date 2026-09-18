@@ -1,0 +1,6 @@
+{
+  "name": "FruitKasir POS",
+  "description": "Aplikasi POS kasir retail buah-buahan dengan dukungan timbangan kg/ons, pemindai barcode, voice-to-text, manajemen stok real-time, dan laporan keuangan.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
